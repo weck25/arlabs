@@ -2,7 +2,7 @@ let bio = {
     "nama":"rifqi"
     };
     let a = null;
-    let b = ;
+    let b = undefined;
     let c = ["bmw","mecedes","honda"];
     
     console.log(bio);

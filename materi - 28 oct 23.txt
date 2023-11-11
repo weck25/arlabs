@@ -1,0 +1,6 @@
+refactory = di produksi ulang
+
+monolitic - mvc - atomic - micro service - micro role
+
+top down - buat component lalau dipisahan nanti dipanggil lagi
+down top - buat component satu satu nanti tinggal di panggil
